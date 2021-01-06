@@ -4,7 +4,7 @@
  */
 class PeliculasDeStarWars {
   public static void main(String[] args) {
-		// Imprime las películas de Star Wars, o tu película favorita.
+    // Imprime las películas de Star Wars, o tu película favorita.
     System.out.println("Star Wars Episodio III: La venganza de los Sith");
   }
 }

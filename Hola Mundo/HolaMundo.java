@@ -4,7 +4,7 @@
  */
 class HolaMundoApp {
   public static void main(String[] args) {
-		// Cambia las palabras a que están entre comillas a lo que quieras...
+    // Cambia las palabras a que están entre comillas a lo que quieras...
     System.out.println("Hola Mundo!");
   }
 }
