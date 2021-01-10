@@ -4,7 +4,7 @@
 * este directorio.
 */
 class NúmerosEnteros {
-	public static void main(String[] args) {
+  public static void main(String[] args) {
     /*
      * Ya que vimos muchos números por hoy, ¿Por qué no hacemos operaciones
      * matemáticas? No... ah solo ¿yo? Bueno esta bien escribamos un poema...
@@ -29,6 +29,6 @@ class NúmerosEnteros {
     System.out.println(); // Salto de línea.
     // Aquí escribe tu poema.
     // ...
-	}
+  }
 }
 
