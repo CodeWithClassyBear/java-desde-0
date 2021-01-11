@@ -13,6 +13,10 @@ class NúmerosEnteros {
     byte edad = 20;
     short añoActual = 2021;
     int númerosAlAzar = 2910121;
+    /*
+     * El tipo de dato "long" tiene una "L" al final del número. En el próximo
+     * tutorial explicaremos porque pasa esto.
+     */
     long númerosAlAzarRepetido = 29101212910121L;
      /*
      * Tal vez te preguntas porque no hay un "Para saber más…" en el capítulo
