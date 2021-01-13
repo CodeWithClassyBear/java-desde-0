@@ -1,8 +1,3 @@
-/*
-* ATENCIÓN:
-* Si no puedes correr este archivo abre el archivo README.md que está en
-* este directorio.
-*/
 class NúmerosEnteros {
   public static void main(String[] args) {
     /*
